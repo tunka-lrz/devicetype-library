@@ -2,7 +2,7 @@
 manufacturer: Huawei
 model: PAC600S12-CB
 part_number: 02312FFU
-comment: https://support.huawei.com/enterprise/en/doc/EDOC1000013597/1a67d1af/pac600s12-cb-600-w-ac-240-v-dc-power-module
+comments: https://support.huawei.com/enterprise/en/doc/EDOC1000013597/1a67d1af/pac600s12-cb-600-w-ac-240-v-dc-power-module
 power-ports:
   - name: PWR{module}
     type: iec-60320-c14
